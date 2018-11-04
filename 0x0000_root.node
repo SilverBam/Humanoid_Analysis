@@ -1,0 +1,16 @@
+/* 0x0000_root.node */
+
+parent: NULL
+ID: 0x0000
+
+parent_question_num: 0
+question_text:
+
+/* Document start */
+doc.start:
+
+doc.end.
+/* Document end */
+
+incurred_question:
+	1. What an average human consist of?
