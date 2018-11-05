@@ -1,0 +1,48 @@
+/* 0x8000_what_human_consist_of */
+
+parent: 0x0000
+ID: 0x8000
+
+parent_question_num: 1
+question_text: What a average human consist of?
+
+/* Document start */
+doc.start:
+Human consist of 11 organ system, including:
+	1. Respiratory
+	2. Digestive
+	3. Cardiovascular
+	4. Urinary
+	5. Integumentary
+	6. Skeletal
+	7. Endocrine
+	8. Lymphatic
+	9. Nervous
+	10. Muscular
+	11. Reproductive
+
+and 6 Sensory system:
+	1. Vision
+	2. Hearing
+	3. Taste
+	4. Touch
+	5. Smell
+	6. Balance
+
+According to their function, we can divide them in to 8 System package:
+	1. Power supply = {organ.sys.1, organ.sys.2, organ.sys.3, organ.sys.4}
+	2. Input interface = {sensory.sys.1, sensory.sys.2, sensory.sys.3, sensory.sys.4, sensory.sys.5}
+	3. Skeletal system = {organ.sys.6}
+	4. Network system = {organ.sys.7, organ.sys.9}
+	5. Output interface = {organ.sys.5, organ.sys.10}
+	6. System defender = {organ.sys.8}
+	7. Core controller = {organ.sys.9, sensory.sys.6}
+	8. Initialize system = {organ.sys.11}
+
+doc.end.
+/* Document end */
+
+incurred_question:
+	1. What's the similarity of today technology and human systems?
+	2. How System packages communicate with each others?
+	3. System packages indeepth.
